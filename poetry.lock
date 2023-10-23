@@ -38,13 +38,13 @@ files = [
 
 [[package]]
 name = "dramatiq"
-version = "1.13.0"
+version = "1.14.2"
 description = "Background Processing for Python 3."
 optional = false
-python-versions = ">=3.6"
+python-versions = ">=3.7"
 files = [
-    {file = "dramatiq-1.13.0-py3-none-any.whl", hash = "sha256:8ef7509ca62bc45c3f1e3b1a0248e9f774337100e32ba1502cfcca15df79ad61"},
-    {file = "dramatiq-1.13.0.tar.gz", hash = "sha256:b4fe0ca6b55b06bebf82cd14c88044fb267505a57d4aa47378194efa0cef5f47"},
+    {file = "dramatiq-1.14.2-py3-none-any.whl", hash = "sha256:cbde4da5016f31fd9db3bb66f02090d6291ce4c2f2093e2783ed91da947d05f4"},
+    {file = "dramatiq-1.14.2.tar.gz", hash = "sha256:8f1a615d4c8f9ea43d60a5c85457e1ec8c0e8d3d85ba72467a959dbff483af1d"},
 ]
 
 [package.dependencies]
@@ -109,4 +109,4 @@ redis = ">=3.5.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "c3558f6f7dba2efb9c622868b9a2dcd4ba0840545cb8859e702d084bb8dfac6b"
+content-hash = "ee927edcf5fcb4e78be4e669aa9e362777a5d36a38bb3265175ebbed7a4eab03"

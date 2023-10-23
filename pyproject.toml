@@ -6,8 +6,8 @@ authors = []
 
 [tool.poetry.dependencies]
 python = "^3.9"
-rq = "^1.13.0"
-dramatiq = "^1.13.0"
+rq = "^1.14.2"
+dramatiq = "^1.14.2"
 
 [build-system]
 requires = ["poetry-core"]
