@@ -93,20 +93,20 @@ ocsp = ["cryptography (>=36.0.1)", "pyopenssl (==20.0.1)", "requests (>=2.26.0)"
 
 [[package]]
 name = "rq"
-version = "1.13.0"
+version = "1.15.1"
 description = "RQ is a simple, lightweight, library for creating background jobs, and processing them."
 optional = false
 python-versions = ">=3.6"
 files = [
-    {file = "rq-1.13.0-py2.py3-none-any.whl", hash = "sha256:621966d7cbf96d5609557a4bd3fd77f749d6d10997d2e353a3e89a14e08eea16"},
-    {file = "rq-1.13.0.tar.gz", hash = "sha256:5bb0380a17597200520731686766bb72faf16ebffb602663560d91ea2c9e7103"},
+    {file = "rq-1.15.1-py2.py3-none-any.whl", hash = "sha256:6e243d8d9c4af4686ded4b01b25ea1ff4bac4fc260b02638fbe9c8c17b004bd1"},
+    {file = "rq-1.15.1.tar.gz", hash = "sha256:1f49f4ac1a084044bb8e95b3f305c0bf17e55618b08c18e0b60c080f12d6f008"},
 ]
 
 [package.dependencies]
 click = ">=5.0.0"
-redis = ">=3.5.0"
+redis = ">=4.0.0"
 
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "c3558f6f7dba2efb9c622868b9a2dcd4ba0840545cb8859e702d084bb8dfac6b"
+content-hash = "78950155de05bbc4cd160ccb1d83f3ab5975e65a165867633b4055c4eee9f0a4"
