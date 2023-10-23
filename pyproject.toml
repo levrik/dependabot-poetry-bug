@@ -7,7 +7,7 @@ authors = []
 [tool.poetry.dependencies]
 python = "^3.9"
 rq = "^1.13.0"
-dramatiq = "^1.13.0"
+dramatiq = "^1.15.0"
 
 [build-system]
 requires = ["poetry-core"]
