@@ -6,7 +6,7 @@ authors = []
 
 [tool.poetry.dependencies]
 python = "^3.9"
-rq = "^1.13.0"
+rq = "^1.16.1"
 dramatiq = "^1.13.0"
 
 [build-system]
